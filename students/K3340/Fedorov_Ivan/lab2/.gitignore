@@ -1,0 +1,8 @@
+.venv/
+.ruff_cache/
+.pytest_cache/
+__pycache__/
+pytest-cache-files-*/
+*.pyc
+parsed_pages.sqlite3
+

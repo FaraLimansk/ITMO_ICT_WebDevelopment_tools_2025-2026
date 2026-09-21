@@ -1,0 +1,7 @@
+fastapi[all]
+httpx
+celery[redis]
+requests
+beautifulsoup4
+psycopg2-binary
+
